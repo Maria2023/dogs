@@ -1,0 +1,4 @@
+[0918/162618.809:ERROR:process_info.cc(359)] UncheckedAllocate
+[0918/162623.572:ERROR:process_info.cc(359)] UncheckedAllocate
+[0918/162640.435:ERROR:process_info.cc(359)] UncheckedAllocate
+[0918/162736.449:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Asus.Iran\AppData\Local\Google\Chrome\User Data\Crashpad\reports\f68c5a9a-ad94-4eb1-9714-b4a75e8e8a6b.dmp: The process cannot access the file because it is being used by another process. (0x20)
