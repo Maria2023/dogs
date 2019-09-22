@@ -37,7 +37,7 @@ header, nav, footer, content {background-color:white }
 .content {display: flex}
 
 section, aside {background-color:rgb(177, 184, 155) }
-section{float:left;}
+
 aside{ float: right;}
 
 
