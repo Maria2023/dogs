@@ -1,6 +1,6 @@
-==`]
+
 body {
-    background-color: rgb(217, 243, 242);
+    background-color: rgb(192, 241, 240);
   }
   
   h1 {
@@ -21,9 +21,7 @@ body {
 
 
   
-.btn.btn-primary {
-    background-color: aqua;
-} 
+ 
 
 #biolist { float: center;} biobox { align: left;
     text-align:none;
@@ -41,11 +39,7 @@ header, nav, footer, content {background-color:white }
 section, aside {background-color:rgb(177, 184, 155) }
 section{float:left;}
 aside{ float: right;}
-.right {
-  float: right;
-  width: 300px;
-  border: 3px solid #73AD21;
-  padding: 10px;}
+
 
 p {
   text-align: center;
